@@ -32,7 +32,7 @@
 
 ### Authors
 
-By [https://snakescriptsolutionsllp.com](https://snakescriptsolutionsllp.com/)
+By [https://www.snakescript.com/](https://www.snakescript.com/)
 
 ### Installation
 
